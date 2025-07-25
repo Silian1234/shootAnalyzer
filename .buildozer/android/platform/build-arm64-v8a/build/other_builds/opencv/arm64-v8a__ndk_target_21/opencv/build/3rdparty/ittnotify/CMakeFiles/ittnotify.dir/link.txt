@@ -1,0 +1,2 @@
+/root/.buildozer/android/platform/android-ndk-r25b/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../lib/arm64-v8a/libittnotify.a CMakeFiles/ittnotify.dir/src/ittnotify/ittnotify_static.c.o CMakeFiles/ittnotify.dir/src/ittnotify/jitprofiling.c.o
+/root/.buildozer/android/platform/android-ndk-r25b/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../lib/arm64-v8a/libittnotify.a

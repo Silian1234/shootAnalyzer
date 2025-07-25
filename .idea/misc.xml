@@ -1,0 +1,6 @@
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="/root/shootAnalyzer/.venv/bin/python" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="/root/shootAnalyzer/.venv/bin/python" project-jdk-type="Python SDK" />
+</project>

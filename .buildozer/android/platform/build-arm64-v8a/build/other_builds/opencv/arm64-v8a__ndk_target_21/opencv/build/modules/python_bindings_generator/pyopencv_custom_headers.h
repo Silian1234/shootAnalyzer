@@ -1,0 +1,13 @@
+//user-defined headers
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/core/misc/python/pyopencv_async.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/core/misc/python/pyopencv_cuda.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/core/misc/python/pyopencv_umat.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/flann/misc/python/pyopencv_flann.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/ml/misc/python/pyopencv_ml.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/dnn/misc/python/pyopencv_dnn.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/features2d/misc/python/pyopencv_features2d.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/videoio/misc/python/pyopencv_videoio.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/objdetect/misc/python/pyopencv_objdetect.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/stitching/misc/python/pyopencv_stitching.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/video/misc/python/pyopencv_video.hpp"
+#include "/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/other_builds/opencv/arm64-v8a__ndk_target_21/opencv/modules/gapi/misc/python/pyopencv_gapi.hpp"

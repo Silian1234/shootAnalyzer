@@ -1,0 +1,1 @@
+/root/shootAnalyzer/.buildozer/android/platform/build-arm64-v8a/build/python-installs/shootanalyzer/arm64-v8a/cv2.cpython-311-x86_64-linux-gnu.so

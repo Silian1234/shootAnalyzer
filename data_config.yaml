@@ -1,0 +1,9 @@
+train: data/images/train
+val:   data/images/val
+
+train_labels: data/labels/train
+val_labels:   data/labels/val
+
+nc: 1
+names:
+  0: hole

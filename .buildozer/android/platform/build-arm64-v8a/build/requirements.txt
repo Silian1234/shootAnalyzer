@@ -1,0 +1,8 @@
+certifi
+chardet
+https://github.com/kivy/pyjnius/archive/master.zip
+idna
+kivymd
+plyer
+requests
+urllib3
